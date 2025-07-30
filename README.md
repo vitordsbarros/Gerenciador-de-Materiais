@@ -49,6 +49,7 @@ O projeto está organizado em módulos Python para facilitar a manutenção e a 
 ```
 fornecedora_materiais/
 ├── gerenciador.py               # Módulo principal com o menu de navegação e interface.
+├── interfaces/                  # Diretório para armazenamento dos módulos.
 ├── clientes.py                  # Módulo para todas as operações de clientes.
 ├── estoque.py                   # Módulo para todas as operações de estoque de peças.
 ├── funcionarios.py              # Módulo para todas as operações de gerenciamento de funcionários.
