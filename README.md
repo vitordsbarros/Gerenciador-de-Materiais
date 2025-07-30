@@ -118,6 +118,3 @@ O programa irá exibir o menu principal e você poderá navegar pelas diferentes
 ## 🤝 Contribuição
 
 Contribuições são bem-vindas! Se você tiver sugestões ou quiser melhorar o código, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## 💰 Apoie meu trabalho:
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/vitordsbarros)
